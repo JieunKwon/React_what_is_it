@@ -14,11 +14,11 @@ Create React App: <a href='https://facebook.github.io/create-react-app/docs/gett
 
 React is a JavaScript library for building user interfaces.
 
-  ** Declarative: 
+  >> Declarative: 
 
 React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable, simpler to understand, and easier to debug.
 
-Component-Based: 
+Component-Based: 1rlt
 
 Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.
 
