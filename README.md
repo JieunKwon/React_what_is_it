@@ -1,6 +1,6 @@
 # React?
 @ March 4, 2019
-@ My March Learning plan for React!
+
 
 <image src='react_logo.JPG' width=200px>
   
