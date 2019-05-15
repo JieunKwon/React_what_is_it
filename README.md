@@ -46,7 +46,8 @@ React uses one-way data binding and an application architecture called Flux cont
 
  > Performance:
 
-React does not offer any concept of a built-in container for dependency. You can use Browserify, Require JS, EcmaScript 6 modules which we can use via Babel, ReactJS-di to inject dependencies automatically.
+React does not offer any concept of a built-in container for dependency. 
+You can use Browserify, Require JS, EcmaScript 6 modules which we can use via Babel, ReactJS-di to inject dependencies automatically.
 
  > Testability:
 
